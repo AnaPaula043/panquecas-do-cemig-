@@ -1,7 +1,7 @@
 :root {
-    --cor-de-fundo:#23BFBF
+    --cor-de-fundo: #ebecee
 }
 
 body {
-    
+   background-color: var(--cor-de-fundo)
 }
